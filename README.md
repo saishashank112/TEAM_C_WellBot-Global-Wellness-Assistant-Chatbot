@@ -120,9 +120,3 @@ OCR (Tesseract)
 LLM Integration
 Text preprocessing
 
-
-Make.com AI automation
-
-Twilio WhatsApp API
-
-Scheduler (Celery / APScheduler)
