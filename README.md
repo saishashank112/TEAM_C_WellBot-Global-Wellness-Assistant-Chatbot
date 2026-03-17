@@ -49,14 +49,6 @@ Rather than functioning as a simple chatbot, WellBot operates as a **context-awa
 
 ---
 
-### 🔔 Smart Reminder System
-
-* Scheduled wellness notifications
-* Habit reinforcement mechanisms
-* Intelligent scheduling logic
-
----
-
 ### 🌐 Global Accessibility
 
 * Multi-language support (i18n architecture)
@@ -207,9 +199,7 @@ WellBot is designed to evolve into a **production-grade health platform**:
 * ☁️ Cloud deployment (AWS / GCP / Azure)
 * 🧠 Fine-tuned domain-specific AI models
 * 📱 Mobile application (React Native / Flutter)
-* 🧬 Wearable device integration (Fitbit, Apple Health)
-* 🔐 HIPAA-compliant data handling
-* 📊 Advanced analytics & predictive modeling
+* 📊 Analytics & predictive modeling
 
 ---
 
